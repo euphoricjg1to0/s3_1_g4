@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("images/backg.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+.pet-status {
+    margin-bottom: 20px;
+}
+.pet-image img{
+    max-width: 200px;
+    height: auto;
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+}
+footer{
+    background-color: white;
+}
